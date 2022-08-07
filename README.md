@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fatemehSharafat
 - 👀 I’m interested in front-end programming 
-- 🌱 I’m currently learning Java, JavaScript, Ricket, vuejs ,..
+- 🌱 I’m currently learning JavaScript, bootstrap , vuejs ,..
 - 📫 you can reach me by my emailaddress
 
 <!---
